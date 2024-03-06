@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 """No modules allowed"""
- class Square:
+class Square:
     """Empty class that defines a square"""
     pass
