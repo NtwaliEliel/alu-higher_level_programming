@@ -3,6 +3,7 @@
 
 """This module define size in square"""
 
+
 class Square:
     """Here we are going to define square"""
     def __init__(self, size=0):
