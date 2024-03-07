@@ -1,15 +1,11 @@
 #!/usr/bin/python3
-
-
 """This module Define square based on 3-square.py"""
 
 
 class square:
-
     """This Define Square"""
 
     def __init__(self, size=0):
-
         """This initialize Square and all arguments"""
 
         self.__size = size
