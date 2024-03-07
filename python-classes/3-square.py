@@ -4,8 +4,7 @@
 """This module contains also area modifier of the square"""
 
 
-class square:
-
+class Square:
     """We are going to define square"""
 
     def __init__(self, size=0):
