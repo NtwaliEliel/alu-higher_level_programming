@@ -1,8 +1,10 @@
 #!/usr/bin/python3
-import math
 
 
 """Math module for arthimetic operation"""
+
+
+import math
 
 
 class MagicClass:
