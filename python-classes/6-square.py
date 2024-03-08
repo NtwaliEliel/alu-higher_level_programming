@@ -48,7 +48,7 @@ class Square:
 
     @property
     def position(self):
-        """Defining positive attribute  by returning it based to Getters method"""
+        """Defining positive by returning it based to Getters method"""
         return self.__position
 
     @position.setter
