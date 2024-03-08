@@ -8,9 +8,9 @@ import math
 
 
 class MagicClass:
-    
+
     """Defining MagicClass"""
-    
+
     def __init__(self, radius=0):
         """Initializing Data"""
         self.__radius = 0
