@@ -31,7 +31,7 @@ class Rectangle:
     def height(self):
         """Accessing height by Getter method"""
         return self.__height
-    
+
     @width.setter
     def height(self, value):
         """Defining height by setter method"""
