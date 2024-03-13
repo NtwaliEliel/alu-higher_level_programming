@@ -3,6 +3,7 @@
 
 """No module imported"""
 
+
 class Rectangle:
 
     """Defining Rectangle"""
@@ -56,7 +57,7 @@ class Rectangle:
 
     @classmethod
     def square(cls, size=0):
-        """This Returns a new Rectangle instance with width == height == size"""
+        """This Returns Rectangle with width == height == size"""
         return cls(size, size)
 
     @staticmethod
