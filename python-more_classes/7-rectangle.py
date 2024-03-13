@@ -5,7 +5,7 @@
 
 
 class Rectangle:
-    
+
     """Defining Rectangle"""
 
     number_of_instances = 0
