@@ -5,11 +5,10 @@
 
 
 Rectangle = __import__('9-rectangle').Rectangle
-
 class BaseGeometry:
-    
+
     """BaseGeometry class"""
-    
+
     def area(self):
         """Raises an Exception"""
         raise Exception("area() is not implemented")
