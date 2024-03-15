@@ -1,6 +1,10 @@
 #!/usr/bin/python3
+
+
+"""9-rectangle is imported"""
+
+
 Rectangle = __import__('9-rectangle').Rectangle
-"""9-rectangle was imported to be used here as parent class"""
 
 class BaseGeometry:
     
