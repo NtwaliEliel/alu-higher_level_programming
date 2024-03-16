@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-"""No module imported"""
+"""JSON IS IMPORTED"""
 import json
 
 
