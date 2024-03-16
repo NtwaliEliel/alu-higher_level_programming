@@ -2,9 +2,9 @@
 
 
 """9-rectangle is imported"""
-
-
 Rectangle = __import__('9-rectangle').Rectangle
+
+
 class BaseGeometry:
 
     """BaseGeometry class"""
