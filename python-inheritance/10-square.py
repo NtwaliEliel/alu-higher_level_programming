@@ -24,7 +24,7 @@ class BaseGeometry:
 class Square(Rectangle):
 
     """Square class"""
-    
+
     def __init__(self, size):
         """Instantiation"""
         self.__size = size
