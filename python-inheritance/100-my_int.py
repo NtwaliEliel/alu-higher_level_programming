@@ -7,7 +7,7 @@
 class MyInt(int):
 
     """Inherits from int"""
-    
+
     def __eq__(self, other):
         """Inverts eq"""
         return super(MyInt, self).__ne__(other)
