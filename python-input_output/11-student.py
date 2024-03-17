@@ -1,11 +1,11 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """12-student module
 """
 
 
 class Student:
     """Student class
-    """
+    """i
     def __init__(self, first_name, last_name, age):
         """Instantiation
         """
